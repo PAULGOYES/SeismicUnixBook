@@ -1,13 +1,12 @@
-#######################################################################
-#                                                                     #
-#   SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA    #
-#            Capítulo 2: Empezando con Unix y Seismic Unix            #
-#            Script 2.6: Graficar en Python seismic2.ascii            #
-#  En este script se grafica y se normaliza el archivo seismic2.ascii #
-#  creado con b2a, teniendo en cuenta que los datos están             #
-#  tabulados por espacios                                             #
-#                                                                     #
-#######################################################################
+########################################################################
+#                                                                      #
+#   SEISMIC UN*X PARA LA ENSEÑANZA DEL METODO DE REFLEXION SISMICA     #
+#            Capitulo 2: Empezando con Unix y Seismic Unix             #
+#  En este script se grafica y se normaliza el archivo seismic2.ascii  #
+#  creado con b2a, teniendo en cuenta que los datos están              #
+#  tabulados por espacios                                              #
+#                                                                      #
+########################################################################
 
 import numpy as np
 import matplotlib.pyplot as plt
