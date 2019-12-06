@@ -17,7 +17,7 @@ stolt=stolt.$file
 ps=ps.$file
 fd=fd.$file
 
-rm -f $solt $ps $fd
+rm -f $stolt $ps $fd
 
 wget http://www.reproducibility.org/data/cwp/simple.su
 wget http://www.reproducibility.org/data/cwp/vel.kdmig.simple
