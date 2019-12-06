@@ -13,7 +13,7 @@
 set -x
 
 file=simple.su
-solt=stolt.$file
+stolt=stolt.$file
 ps=ps.$file
 fd=fd.$file
 
@@ -22,7 +22,7 @@ rm -f $solt $ps $fd
 wget http://www.reproducibility.org/data/cwp/simple.su
 wget http://www.reproducibility.org/data/cwp/vel.kdmig.simple
 
-# MIGRACIÓN SOLT
+# MIGRACIÓN STOLT
 sustolt < $file cdpmin=1 cdpmax=80 dxcdp=40 vmig=2000 tmig=0.0> $solt
 
 # MIGRACIÓN PHASE-SHIFT
