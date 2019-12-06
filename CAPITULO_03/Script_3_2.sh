@@ -2,9 +2,8 @@
 #                                                                   #
 #  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA   #
 #                Capítulo 3: Modelamiento sísmico 2D                #
-#   Script 3.2: Construcción del modelo de velocidades uniforme     #
-#  En este script se elabora el modelo uniforme de cuatro capas     #
-#  homogéneas con unif2                                             #
+#  En este script se elabora el modelo de velocidades uniforme de   #
+#  cuatro capas homogéneas con unif2                                #
 #                                                                   #
 #####################################################################
 
