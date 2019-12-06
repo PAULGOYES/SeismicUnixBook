@@ -2,9 +2,8 @@
 #                                                                   #
 #  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA   #
 #                Capítulo 3: Modelamiento sísmico 2D                #
-#  Script 3.1: Construcción del modelo de velocidades triangulado   #
-#  En este script se elabora el modelo triangulado de cuatro capas  #
-#  homogéneas con trimodel                                          #
+#  En este script se elabora el modelo de velocidades triangulado   #
+#  de cuatro capas homogéneas con trimodel                          #
 #                                                                   #
 #####################################################################
 
