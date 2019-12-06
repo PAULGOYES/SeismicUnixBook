@@ -2,7 +2,6 @@
 #                                                                  #
 #  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA  #
 #                Capítulo 3: Modelamiento sísmico 2D               #
-#   Script 3.3: Conversión modelo triangulado - modelo uniforme    #
 #  En este script se hace la conversión del modelo de velocidades  #
 #  triangulado de cuatro capas homogéneas al modelo uniforme con   #
 #  tri2uni                                                         #
