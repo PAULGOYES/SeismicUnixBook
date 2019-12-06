@@ -2,8 +2,7 @@
 #                                                                   #
 #  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA   #
 #           Capítulo 2: Empezando con Unix y Seismic Unix           #
-#         Script 2.3: Crear archivos migrados de simple.su          #
-#  En este script se crean tres archivos migrados de simple.su, con #
+#  En este script se crean tres archivos migrados de simple.su con  #
 #  los programas sustolt, sumigps y sumigfd                         #
 #                                                                   #
 #####################################################################
