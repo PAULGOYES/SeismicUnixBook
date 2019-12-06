@@ -11,6 +11,7 @@
 
 #! bin/bash
 set -x
+
 file=simple.su
 solt=stolt.$file
 ps=ps.$file
