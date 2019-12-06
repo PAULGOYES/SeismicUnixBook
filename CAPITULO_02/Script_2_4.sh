@@ -1,12 +1,11 @@
-#####################################################################
-#                                                                   #
-#  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA   #
-#           Capítulo 2: Empezando con Unix y Seismic Unix           #
-#         Script 2.4: Graficar archivos migrados de simple.su       #
-#  En este script se grafican los archivos de migración solt, phase #
-#  shift y por diferencias finitas                                  #
-#                                                                   #
-#####################################################################
+########################################################################
+#                                                                      #
+#    SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA    #
+#            Capítulo 2: Empezando con Unix y Seismic Unix             #
+#  En este script se grafican los tres archivos migrados de simple.su  #
+#  migración solt, phase shift y por diferencias finitas               #
+#                                                                      #
+########################################################################
 
 #! bin/bash
 set -x
