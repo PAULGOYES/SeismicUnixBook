@@ -1,8 +1,7 @@
 #######################################################################
 #                                                                     #
-#   SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA    #
-#            Capítulo 2: Empezando con Unix y Seismic Unix            #
-#            Script 2.5: Graficar en Python seismic1.ascii            #
+#   SEISMIC UN*X PARA LA ENSEÑANZA DEL METODO DE REFLEXION SISMICA    #
+#            Capitulo 2: Empezando con Unix y Seismic Unix            #
 #  En este script se grafica y se normaliza el archivo seismic1.ascii #
 #  creado con suascii, teniendo en cuenta que los datos están         #
 #  tabulados por filas                                                #
