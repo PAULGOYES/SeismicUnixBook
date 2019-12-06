@@ -1,12 +1,11 @@
-#####################################################################
-#                                                                   #
-#  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA   #
-#           Capítulo 2: Empezando con Unix y Seismic Unix           #
-#                  Script 2.2: Sintaxis de un case                  #
-#  El siguiente script corresponde a un ejemplo de un case aplicado #
-#  a los programas de SU: suxwigb, suximage y supswigp              #
-#                                                                   #
-#####################################################################
+####################################################################
+#                                                                  #
+#  SEISMIC UN*X PARA LA ENSEÑANZA DEL MÉTODO DE REFLEXIÓN SÍSMICA  #
+#           Capítulo 2: Empezando con Unix y Seismic Unix          #
+#  En este script se hace el ejemplo de un case para graficar      #
+#  myplot.su con los programas suxwigb, suximage y supswigp        #
+#                                                                  #
+####################################################################
 
 #!/bin/sh
 
